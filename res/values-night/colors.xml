@@ -154,7 +154,7 @@
     <color name="group_mms_setting_text_color">#333333</color>
     <color name="settings_item_title_text_primary">#000000</color>
 
-    <color name="contact_picker_button_text_color">@color/primary_color</color>
+    <color name="contact_picker_button_text_color">@color/accent_color</color>
 
     <color name="widget_text_color">#424242</color>
     <color name="widget_incoming_text_color">@android:color/white</color>
@@ -171,4 +171,5 @@
     <color name="fastscroll_preview_text_color">#ffffff</color>
 
     <color name="google_gray">#F1F1F1</color>
+    <color name="accent_color">#80cbc4</color>
 </resources>
