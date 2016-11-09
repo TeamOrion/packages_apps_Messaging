@@ -25,6 +25,7 @@ LOCAL_C_INCLUDES := \
 	external/giflib
 
 LOCAL_MODULE    := libgiftranscode
+LOCAL_CLANG := false
 LOCAL_SRC_FILES := GifTranscoder.cpp
 
 LOCAL_CFLAGS += -Wall -Wno-unused-parameter -Wno-switch
